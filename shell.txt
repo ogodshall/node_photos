@@ -1,1 +1,0 @@
-curl -s -X POST -H "Content-Type: application/json" \ -d '{ "album_name" : "Now That's What I Call Music 42" }' \ http://localhost:8080/albums/italy2012/rename.json
